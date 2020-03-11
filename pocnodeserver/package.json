@@ -1,0 +1,27 @@
+{
+  "name": "ElasticSearchCRUD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "estalk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "docx-parser": "^0.2.1",
+    "elasticsearch": "^16.6.0",
+    "express": "^4.17.1",
+    "mammoth": "^1.4.9",
+    "mongoose": "^5.9.3",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.2",
+    "pdf-parse": "^1.1.1",
+    "pdf-text-extract": "^1.5.0",
+    "pdf-to-text": "0.0.7",
+    "textract": "^2.5.0"
+  }
+}
